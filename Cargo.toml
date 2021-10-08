@@ -1,0 +1,2 @@
+[workspace]
+members = ["heed", "heed-traits", "heed-types"]
